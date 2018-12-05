@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\bin\Debug\3rdElementFromTheEndLinkedList.exe.config
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\bin\Debug\3rdElementFromTheEndLinkedList.exe
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\bin\Debug\3rdElementFromTheEndLinkedList.pdb
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\obj\Debug\3rdElementFromTheEndLinkedList.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\obj\Debug\3rdElementFromTheEndLinkedList.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\obj\Debug\3rdElementFromTheEndLinkedList.exe
+E:\Wantsome\Exercitii-Curs-5\3rdElementFromTheEndLinkedList\3rdElementFromTheEndLinkedList\obj\Debug\3rdElementFromTheEndLinkedList.pdb

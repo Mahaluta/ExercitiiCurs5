@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\bin\Debug\SumDigitsForANumber.exe.config
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\bin\Debug\SumDigitsForANumber.exe
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\bin\Debug\SumDigitsForANumber.pdb
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\obj\Debug\SumDigitsForANumber.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\obj\Debug\SumDigitsForANumber.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\obj\Debug\SumDigitsForANumber.exe
+E:\Wantsome\Exercitii-Curs-5\SumDigitsForANumber\SumDigitsForANumber\obj\Debug\SumDigitsForANumber.pdb

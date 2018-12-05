@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\bin\Debug\MajorityElement.exe.config
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\bin\Debug\MajorityElement.exe
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\bin\Debug\MajorityElement.pdb
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\obj\Debug\MajorityElement.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\obj\Debug\MajorityElement.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\obj\Debug\MajorityElement.exe
+E:\Wantsome\Exercitii-Curs-5\MajorityElement\MajorityElement\obj\Debug\MajorityElement.pdb

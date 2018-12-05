@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+E:\Wantsome\Exercitii-Curs-5\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb

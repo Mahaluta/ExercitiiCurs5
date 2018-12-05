@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\bin\Debug\Merge2LinkedLists.exe.config
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\bin\Debug\Merge2LinkedLists.exe
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\bin\Debug\Merge2LinkedLists.pdb
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\obj\Debug\Merge2LinkedLists.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\obj\Debug\Merge2LinkedLists.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\obj\Debug\Merge2LinkedLists.exe
+E:\Wantsome\Exercitii-Curs-5\Merge2LinkedLists\Merge2LinkedLists\obj\Debug\Merge2LinkedLists.pdb

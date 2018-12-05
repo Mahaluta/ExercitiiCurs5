@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\bin\Debug\TwoStringsAnagrams.exe.config
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\bin\Debug\TwoStringsAnagrams.exe
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\bin\Debug\TwoStringsAnagrams.pdb
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\obj\Debug\TwoStringsAnagrams.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\obj\Debug\TwoStringsAnagrams.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\obj\Debug\TwoStringsAnagrams.exe
+E:\Wantsome\Exercitii-Curs-5\TwoStringsAnagrams\TwoStringsAnagrams\obj\Debug\TwoStringsAnagrams.pdb

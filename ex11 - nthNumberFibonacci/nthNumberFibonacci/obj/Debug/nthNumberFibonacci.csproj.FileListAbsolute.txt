@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\bin\Debug\nthNumberFibonacci.exe.config
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\bin\Debug\nthNumberFibonacci.exe
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\bin\Debug\nthNumberFibonacci.pdb
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\obj\Debug\nthNumberFibonacci.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\obj\Debug\nthNumberFibonacci.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\obj\Debug\nthNumberFibonacci.exe
+E:\Wantsome\Exercitii-Curs-5\nthNumberFibonacci\nthNumberFibonacci\obj\Debug\nthNumberFibonacci.pdb

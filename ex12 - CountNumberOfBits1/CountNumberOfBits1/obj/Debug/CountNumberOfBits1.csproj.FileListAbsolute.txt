@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\bin\Debug\CountNumberOfBits1.exe.config
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\bin\Debug\CountNumberOfBits1.exe
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\bin\Debug\CountNumberOfBits1.pdb
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\obj\Debug\CountNumberOfBits1.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\obj\Debug\CountNumberOfBits1.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\obj\Debug\CountNumberOfBits1.exe
+E:\Wantsome\Exercitii-Curs-5\CountNumberOfBits1\CountNumberOfBits1\obj\Debug\CountNumberOfBits1.pdb

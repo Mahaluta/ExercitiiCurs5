@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+E:\Wantsome\Exercitii-Curs-5\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

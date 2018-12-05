@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\bin\Debug\RemoveDuplicatesFromString.exe.config
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\bin\Debug\RemoveDuplicatesFromString.exe
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\bin\Debug\RemoveDuplicatesFromString.pdb
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\obj\Debug\RemoveDuplicatesFromString.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\obj\Debug\RemoveDuplicatesFromString.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\obj\Debug\RemoveDuplicatesFromString.exe
+E:\Wantsome\Exercitii-Curs-5\RemoveDuplicatesFromString\RemoveDuplicatesFromString\obj\Debug\RemoveDuplicatesFromString.pdb

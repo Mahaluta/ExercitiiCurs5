@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\bin\Debug\CheckDuplicatesArray.exe.config
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\bin\Debug\CheckDuplicatesArray.exe
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\bin\Debug\CheckDuplicatesArray.pdb
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\obj\Debug\CheckDuplicatesArray.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\obj\Debug\CheckDuplicatesArray.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\obj\Debug\CheckDuplicatesArray.exe
+E:\Wantsome\Exercitii-Curs-5\CheckDuplicatesArray\CheckDuplicatesArray\obj\Debug\CheckDuplicatesArray.pdb

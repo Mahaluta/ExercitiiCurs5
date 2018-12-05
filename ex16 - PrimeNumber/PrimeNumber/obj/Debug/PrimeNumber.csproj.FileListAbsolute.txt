@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\Wantsome\Exercitii-Curs-5\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

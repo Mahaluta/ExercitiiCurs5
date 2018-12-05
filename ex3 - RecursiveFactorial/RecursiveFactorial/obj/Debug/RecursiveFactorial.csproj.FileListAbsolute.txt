@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+E:\Wantsome\Exercitii-Curs-5\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

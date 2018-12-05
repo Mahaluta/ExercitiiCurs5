@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\bin\Debug\isNumberPalindrome.exe.config
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\bin\Debug\isNumberPalindrome.exe
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\bin\Debug\isNumberPalindrome.pdb
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\obj\Debug\isNumberPalindrome.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\obj\Debug\isNumberPalindrome.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\obj\Debug\isNumberPalindrome.exe
+E:\Wantsome\Exercitii-Curs-5\isNumberPalindrome\isNumberPalindrome\obj\Debug\isNumberPalindrome.pdb

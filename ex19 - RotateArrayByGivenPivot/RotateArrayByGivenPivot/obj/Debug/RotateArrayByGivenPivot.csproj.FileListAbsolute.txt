@@ -1,0 +1,7 @@
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\bin\Debug\RotateArrayByGivenPivot.exe.config
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\bin\Debug\RotateArrayByGivenPivot.exe
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\bin\Debug\RotateArrayByGivenPivot.pdb
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\obj\Debug\RotateArrayByGivenPivot.csprojAssemblyReference.cache
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\obj\Debug\RotateArrayByGivenPivot.csproj.CoreCompileInputs.cache
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\obj\Debug\RotateArrayByGivenPivot.exe
+E:\Wantsome\Exercitii-Curs-5\RotateArrayByGivenPivot\RotateArrayByGivenPivot\obj\Debug\RotateArrayByGivenPivot.pdb
